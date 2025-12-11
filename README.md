@@ -1,10 +1,11 @@
 
-
-<!---
-mrAyush1804/mrAyush1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="35" height="35" /> Hi Guys <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, Wellcome to My Profile
+<div>
+<img src="https://github.com/Arinyadav1/Arinyadav1/blob/ba7bdb035e302610b44f6bed93330e1340d6f766/bannerNew.svg" /> 
+</div>
+<div>
+  
+<h1 align="center">Hi 👋, I am Ayush Tiwari</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Android+Developer+from+India;Passionate+about+Building+Impactful+Apps;Turning+Ideas+into+Scalable+Solutions;Always+Learning+%26+Innovating" alt="Typing SVG" />
@@ -79,7 +80,19 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/mrAyush1804/mrAyush1804/output/github-contribution-grid-snake.svg)
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrAyush1084&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrAyush1804&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+![Ayush GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrAyush1804&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+
+
+---
 
 ---
 
