@@ -80,19 +80,12 @@
 
 ---
 
----
-
 ## 📊 GitHub Status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrAyush1084&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrAyush1804&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ![Ayush GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrAyush1804&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
 
 
----
 
 ---
 
