@@ -88,11 +88,41 @@
 
 
 ---
+### I have experience of above mentioned all Tools and Technology <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,figma,jenkins,aws,linux,docker,postman,SonarQube,Kubernetes,sql" />
-</p>
+<div align="center">
+<table>
+
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60"/><br>Java</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="60"/><br>Kotlin</td>
+    <td align="center" width="96"><img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/dsa.svg" width="60"/><br>DSA</td>
+    <td align="center" width="96"><img src="https://github.com/Arinyadav1/Arinyadav1/blob/26c6cf20ebe2437939a2d899cfcf242b7418b264/compose.svg" width="60"/><br>Compose</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="60"/><br>Studio</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="60"/><br>SQLite</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="60"/><br>Git</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="60"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60"/><br>VSCode</td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="60"/><br>IntelliJ</td>
+    <td align="center" width="96"><img src="https://github.com/Arinyadav1/Arinyadav1/blob/e827fed6313b0eb1b70a93258a2f24b8b4a75add/Json.svg" width="60"/><br>JSON</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>Jenkins</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="60"/><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="60"/><br>ArgoCD</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/12101304?s=200&v=4" width="60"/><br>OWASP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="60"/><br>Terraform</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="60"/><br>Shell Script</td>
+  </tr>
+
+</table>
+</div>
 
 ---
 
